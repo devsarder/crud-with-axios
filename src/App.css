@@ -1,0 +1,14 @@
+ul {
+  list-style-type: none;
+}
+li {
+  display: flex;
+  margin: 10px 0;
+}
+li > div span {
+  cursor: pointer;
+}
+.error {
+  background-color: pink;
+  padding: 10px;
+}
